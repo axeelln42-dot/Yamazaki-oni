@@ -27,3 +27,4 @@ footer a{color:var(--tx);text-decoration:none;font-weight:500}
 footer .pp{display:inline-block;margin-bottom:8px;border-bottom:1px solid var(--ac)}
 #t{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);background:var(--tx);color:var(--bg);padding:8px 16px;border-radius:99px;font-size:13px;opacity:0;transition:.3s;pointer-events:none;z-index:10}
 #t.s{opacity:1}
+.hero-logo{display:block;width:220px;max-width:70%;height:auto;margin:32px auto 0;mix-blend-mode:screen}

@@ -2,7 +2,8 @@ const LINKS = {
   discord:  "https://discord.gg/7TU3B7VkW",
   youtube:  "https://youtube.com/@yamazakiclanforever?si=Uf0tqG778jk2pfGZ",
   tiktok:   "https://www.tiktok.com/@yamazaki.comunity?_r=1&_t=ZS-9AclBv61kn6",
-  whatsapp: "https://chat.whatsapp.com/DYXiVgTY7fpGqp35hmJSFz"
+  whatsapp: "https://chat.whatsapp.com/DYXiVgTY7fpGqp35hmJSFz",
+  tiktok2:  "https://www.tiktok.com/@d.council.squad?_r=1&_t=ZS-9AoIP2I0TIa",
 };
 
 const $ = s => [...document.querySelectorAll(s)];
